@@ -3,7 +3,6 @@ package Bencher::Scenario::AlgorithmDiff::Startup;
 # DATE
 # VERSION
 
-use 5.010001;
 use strict;
 use warnings;
 

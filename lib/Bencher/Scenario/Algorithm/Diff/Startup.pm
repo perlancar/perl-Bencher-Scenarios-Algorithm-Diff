@@ -1,10 +1,12 @@
-package Bencher::Scenario::AlgorithmDiff::Startup;
-
-# DATE
-# VERSION
+package Bencher::Scenario::Algorithm::Diff::Startup;
 
 use strict;
 use warnings;
+
+# AUTHORITY
+# DATE
+# DIST
+# VERSION
 
 our $scenario = {
     summary => 'Benchmark startup of Algorithm::Diff',

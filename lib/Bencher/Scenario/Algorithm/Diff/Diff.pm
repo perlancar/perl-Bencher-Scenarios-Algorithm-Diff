@@ -1,10 +1,12 @@
-package Bencher::Scenario::AlgorithmDiff::Diff;
-
-# DATE
-# VERSION
+package Bencher::Scenario::Algorithm::Diff::Diff;
 
 use strict;
 use warnings;
+
+# AUTHORITY
+# DATE
+# DIST
+# VERSION
 
 our $scenario = {
     summary => "Benchmark Algorithm::Diff's diff(), sdiff(), compact_diff(), LCS(), LCSidx(), LCS_length()",

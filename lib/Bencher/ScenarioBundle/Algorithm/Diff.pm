@@ -1,4 +1,4 @@
-package Bencher::Scenarios::Algorithm::Diff;
+package Bencher::ScenarioBundle::Algorithm::Diff;
 
 use strict;
 
